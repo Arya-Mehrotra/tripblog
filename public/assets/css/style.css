@@ -1,0 +1,40 @@
+.no-border{
+    border:0 !important;
+}
+.banner{
+    background-image:url('../images/main-banner.jpg');
+    background-size: cover;
+    background-position:center;
+    margin-bottom:0;
+}
+.caption-box{
+    background-color:rgba(0,0,0,0.5);
+}
+.caption-box > .banner-text{
+font-size: large;
+}
+.top-header{
+    background-color:#000;
+}
+.social-icons-list{
+    list-style-type: none;
+}
+.social-icons-list > li{
+    display: inline;
+}
+.social-icons-list > li img{
+height: 25px;
+width:25px;
+}
+footer{
+    background-color:#000;
+    position:absolute;
+    bottom:0;
+}
+.searcharea{
+background-color: #ffc10717;
+}
+select{
+border-radius: 0 !important;
+height:50px;
+}
